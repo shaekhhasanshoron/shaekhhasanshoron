@@ -15,9 +15,9 @@
 
 
 ### About me
-I am a software engineer with over 4 years of experience in developing, deploying, and maintaining scalable and reliable software solutions. I have managed multiple teams and have expertise in DevOps, DevSecOps, Cloud Solutions, R&D, and backend development, along with contributions to full-stack development. I am also interested in AI, Machine Learning, and Big Data.
+I am a software engineer with over 5 years of experience in developing, deploying, and maintaining scalable and reliable software solutions. I have managed multiple teams and have expertise in DevOps, DevSecOps, Cloud Solutions, R&D, and backend development, along with contributions to full-stack development. I am also interested in AI, Machine Learning, and Big Data.
 
-I have worked with Golang, Java, Echo, Spring Boot, Linux, Kubernetes, Docker, and several other technologies. I also have experience with public cloud solutions like AWS and GCP, as well as on-premise cloud solutions on Bare Metal server
+I have worked with Golang, Java, Echo, Spring Boot, Linux, Kubernetes, Docker and several other technologies. Moreover, I have experience with public cloud solutions like AWS and GCP, as well as on-premise cloud solutions on Bare Metal servers.
 
 
 <br/>  

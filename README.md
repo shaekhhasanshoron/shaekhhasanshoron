@@ -57,10 +57,5 @@ I have worked with Golang, Java, Echo, Spring Boot, Linux, Kubernetes, Docker an
 
 <br/>  
 
-
-## My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaekhhasanshoron)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>  
 
